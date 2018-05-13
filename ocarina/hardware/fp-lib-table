@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name mybattery)(type KiCad)(uri "$(KIPRJMOD)/mybattery.pretty")(options "")(descr ""))
+  (lib (name flowmeter)(type KiCad)(uri "$(KIPRJMOD)/flowmeter.pretty")(options "")(descr ""))
+  (lib (name speaker)(type KiCad)(uri "$(KIPRJMOD)/speaker.pretty")(options "")(descr ""))
+)
